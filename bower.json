@@ -1,0 +1,14 @@
+{
+  "name": "chatuygulamasi",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "keywords": [
+    "chat",
+    "nodejs"
+  ],
+  "homepage": "https://github.com/yelisdurmus/chatuygulamasi",
+  "dependencies": {
+    "angular": "^1.7.9"
+  }
+}
